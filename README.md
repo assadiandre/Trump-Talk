@@ -14,4 +14,7 @@ My second game released to the app-store. Trump Talk was meant to entertain. It 
 **To Run:**
 
 - Download Corona SDK
-- Open the Game Folder and run 
+- Open the Game Folder and run
+
+![alt text](https://media.giphy.com/media/65FxhnjHcOoUGb4EQy/giphy-downsized-large.gif)
+
