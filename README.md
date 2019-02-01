@@ -6,5 +6,12 @@ A funny app that was made to entertain, shortly after the election of Donald Tru
 
 Link: https://itunes.apple.com/us/app/the-best-trump-talk-app/id1220693540?mt=8
 
-**Note**
-Trump Talk was also a very painful app to create. It had around 150 different animations and tweets of Donald Trump which we're hillarious, but I realized most of my time was spent searching for content than actually coding the app. However, where I did not learn about programming I learned more about graphic design and appealing graphical interfaces. The app became very beautiful, I made the animations myself with Photoshop and worked hard on making the app seamless. 
+- Youtube video: https://www.youtube.com/watch?v=TP0js2tZit0
+
+**About:**
+My second game released to the app-store. Trump Talk was meant to entertain. It was released in 2016 and featured over 150+ Donald Trump quotes and tweets. I trimmed the clips myself, and animated the caricature using Photoshop and Illustrator. 
+
+**To Run:**
+
+- Download Corona SDK
+- Open the Game Folder and run 
