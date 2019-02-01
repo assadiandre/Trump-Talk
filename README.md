@@ -4,7 +4,9 @@ A funny app that was made to entertain, shortly after the election of Donald Tru
 
 ![alt text](https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/ac/dc/d1/acdcd1b9-c0d7-f463-5034-67cf740e2fbb/pr_source.png/246x0w.png)
 
-Link: https://itunes.apple.com/us/app/the-best-trump-talk-app/id1220693540?mt=8
+Appstore Link: https://itunes.apple.com/us/app/the-best-trump-talk-app/id1220693540?mt=8
+
+Description Link: https://appadvice.com/app/the-best-trump-talk-app/1220693540
 
 Youtube video: https://www.youtube.com/watch?v=TP0js2tZit0
 
