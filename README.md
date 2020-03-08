@@ -15,7 +15,7 @@ My second game released to the app-store. Trump Talk was meant to entertain. It 
 - Download Corona SDK
 - Open the Game Folder and run
 
-![Trump Talk](https://i.ibb.co/m6gzwQY/trumptalk.png)
+![Trump Talk](https://i.ibb.co/t8FCtyN/trumptalk.png)
 
 
 
