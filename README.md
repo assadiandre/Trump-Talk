@@ -5,7 +5,7 @@
 **To Run:**
 - Download Corona SDK
 - Locate the main.lua file
-- Right click -> Open with -> Corona SDK
+- Right click main.lua -> Open with -> Corona SDK
 
 ![Trump Talk](https://i.ibb.co/t8FCtyN/trumptalk.png)
 
