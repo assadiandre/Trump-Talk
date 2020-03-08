@@ -9,8 +9,6 @@ A funny app that was made to entertain, shortly after the election of Donald Tru
 - Download Corona SDK
 - Open the Game Folder and run
 
-![alt text](https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/ac/dc/d1/acdcd1b9-c0d7-f463-5034-67cf740e2fbb/pr_source.png/246x0w.png)
-
 ![Trump Talk](https://i.ibb.co/t8FCtyN/trumptalk.png)
 
 
