@@ -19,4 +19,3 @@ My second game released to the app-store. Trump Talk was meant to entertain. It 
 
 
 
-
