@@ -7,7 +7,8 @@ A funny app that was made to entertain, shortly after the election of Donald Tru
 
 **To Run:**
 - Download Corona SDK
-- Open the Game Folder and run
+- Locate the main.lua file
+- Right click -> Open with -> Corona SDK
 
 ![Trump Talk](https://i.ibb.co/t8FCtyN/trumptalk.png)
 
